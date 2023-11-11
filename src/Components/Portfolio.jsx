@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Grocery List App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A simple grocery list android app built using Kotlin. It uses Room database to store the data locally.",
+    url: "https://github.com/smartinternz02/SPSGP-81185-Virtual-Internship---Android-Application-Development-Using-Kotlin",
   },
   {
-    title: "Web Development for Beginners",
+    title: "To Do List App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A simple to do list app build using python and Django. It uses SQLite database to store the data locally.",
+    url: "https://github.com/ankitgadling/djangotodoapp",
   },
   {
-    title: "My Resume Site",
+    title: "ARMEbookMart",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A website build using python and Django. Where user can view, listen books and also crate a audiobooks of pdf they own. It has a feature like authentication, authorization.",
+    url: "https://github.com/ankitgadling/armebookmart",
   },
 ];
 
