@@ -40,7 +40,7 @@ const skillsList = [
   "HTML",
   "CSS",
   "Git",
-  "GitHub",
+  "GitHub"
 
 ];
 
